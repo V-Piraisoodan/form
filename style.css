@@ -1,0 +1,338 @@
+.firstname{
+    position: relative;
+    left: 0px;
+    top: -15px;
+}
+.lastname{
+   position: relative;
+   left: 200px;
+   top: -50px;
+}
+.style1{
+    /* margin: 0 auto; */
+    /* border-radius: 15px; */
+    display: flex;
+    /* top: -80px; */
+    /* justify-content: flex-start; */
+}
+.style2{
+    display: flex;
+}
+.firstlabel{
+    position: relative;
+    color:green;
+    font-size: 12px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.lastlabel{
+    position: relative;
+    color:green;
+    font-size: 12px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.red{
+    color: red;
+}
+.email{
+    position: relative;
+    top: -65px;
+}
+#mail{
+    position: relative;
+    top: -66px;
+}
+.ipedit{
+    position: relative;
+    top: -80px;
+    width: 500px;
+    
+}
+#ipedit{
+    position: relative;
+    width: 370px;
+}
+.style3{
+    display: flex;
+}
+#exp{
+    position: relative;
+    top: -90px;
+
+}
+.exp{
+    position: relative;
+    top: -90px;
+}
+.grey{
+    background-color: rgb(196, 194, 194);
+}
+.rating input{
+    display: none;
+}
+.rating{
+    position: relative;
+    display: flex;
+    top: -105px;
+}
+.rating label{
+    display: block;
+    cursor: pointer;
+    width: 40px;
+    color: orange;
+}
+.rating label:before{
+    content: '\f005';
+    font-family: fontAwesome;
+    font-size: 30px;
+}
+.over{
+    position: relative;
+    top: -95px;
+}
+.style4{
+    display: flex;
+}
+.how{
+   position: relative;
+   top: -100px;
+}
+#how{
+    position:relative;
+    top: -102px;
+}
+.first{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+.vu{
+    position: relative;
+    top: -110px;
+    left: 170px;
+}
+.u{
+    position: relative;
+    top: -110px;
+    left: 190px; 
+}
+.n{
+    position: relative;
+    top: -110px;
+    left: 235px;
+}
+.s{
+    position: relative;
+    top: -110px;
+    left: 285px;
+}
+.vs{
+    position: relative;
+    top: -110px;
+    left: 320px;
+}
+#pur{
+    display: flex;
+    position: relative;
+    top: -100px;   
+}
+#star6{
+    position: relative;
+    left: 150px;
+}
+#star7{
+    position: relative;
+    left: 230px;
+}
+#star8{
+    position: relative;
+    left: 310px;
+}
+#star9{
+    position: relative;
+    left: 390px;
+}
+#star10{
+    position: relative;
+    left: 470px;
+}
+#ser{
+    position: relative;
+    top: -95px;
+    background-color: rgb(240, 174, 240);
+    
+}
+#star11{
+    position: relative;
+    left: 156px;
+}
+#star12{
+    position: relative;
+    left: 232px;
+}
+#star13{
+    position: relative;
+    left: 308px;
+}
+#star14{
+    position: relative;
+    left: 384px;
+}
+#star15{
+    position: relative;
+    left: 460px;
+}
+#com{
+    position: relative;
+    top: -90px;
+}
+#star16{
+    position: relative;
+    left: 91px;
+}
+#star17{
+    position: relative;
+    left: 167px;
+}
+#star18{
+    position: relative;
+    left: 243px;
+}
+#star19{
+    position: relative;
+    left: 318px;
+}
+#star20{
+    position: relative;
+    left: 394px;
+}
+.style{
+    display: flex;
+    position: relative;
+    top: -95px;
+}
+.second{
+   position: relative;
+   top: -105px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 13px;
+}
+.vul{
+    position: relative;
+    left: 180px;
+}
+.ul{
+    position: relative;
+    left: 215px; 
+}
+.n1{
+    position: relative;
+    left: 270px;
+}
+.l{
+    position: relative;
+    left: 330px;
+}
+.vl{
+    position: relative;
+    left: 375px;
+}
+#buy{
+    position: relative;
+    top: -95px;
+}
+#star21{
+    position: relative;
+    left: 89px;
+}
+#star22{
+    position: relative;
+    left: 162px;
+}
+#star23{
+    position: relative;
+    left: 240px;
+}
+#star24{
+    position: relative;
+    left: 315px;
+}
+#star25{
+    position: relative;
+    left: 390px;
+}
+.rec1{
+    position: relative;
+    top: -90px;
+    background-color: rgb(240, 174, 240);
+}
+#star26{
+    position: relative;
+    left: 45px;
+}
+#star27{
+    position: relative;
+    left: 119px;
+}
+#star28{
+    position: relative;
+    left: 196px;
+}
+#star29{
+    position: relative;
+    left: 271px;
+}
+#star30{
+    position: relative;
+    left: 346px;
+}
+.rec2{
+    position: relative;
+    top: -85px;
+    background-color: rgb(196, 194, 194);
+}
+#star31{
+    position: relative;
+    left: 37px;
+}
+#star32{
+    position: relative;
+    left: 110px;
+}
+#star33{
+    position: relative;
+    left: 187px;
+}
+#star34{
+    position: relative;
+    left: 262px;
+}
+#star35{
+    position: relative;
+    left: 337px;
+}
+.add{
+    position: relative;
+    top: -90px;
+}
+.comment{
+    position: relative;
+    top: -95px;
+    width: 660px;
+    height: 100px;
+    border-radius: 6px;
+    border: 1px solid rgb(125, 125, 236);
+}
+#submit{
+    position: relative;
+    top: -80px;
+    padding: 6px 15px;
+    border-radius: 7px;
+    background-color: rgb(46, 233, 240);
+    cursor: pointer;
+}
+.body{
+    position: absolute;
+    left:340px;
+    border: 2px solid blue;
+    padding: 3px 20px;
+    border-radius: 10px;
+}
